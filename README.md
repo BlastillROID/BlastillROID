@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on understanding myself...
 - 🌱 I’m currently learning Rust Web Dev
 - 👯 I’m looking to collaborate on Cloud Projects
 - 💬 Ask me just about anything 
