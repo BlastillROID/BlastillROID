@@ -1,18 +1,16 @@
-### Hi there !! 👋
 
-<!-- <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> -->
+ <h2> Hi, I'm Mounir Missaoui! <img src="https://media.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif" width="100px"></h2>
+<img align='right' src="https://raw.githubusercontent.com/BlastillROID/BlastillROID/master/66833e07d6fb9eb5d724e47d0c814285.gif" width="360">
+</em></p> 
 
 I am Mounir Missaoui a DevOps/Cloud Engineer from Tunis, Tunisia, I'm a Blockchain evangalist/developer, a Dark Souls Masochist and Graphic Designer (sometimes), loves Anime and Manga, Books, Physics and Astronomy Enthusiast, always looking to learn new things, ready for discussions and making new projects, write blogs on Dev.to etc.
  		
-<p align="center">
+<!-- <p align="center">
 	<b>Down time comes for us all</b>
 </p>	
 <p align="center">
 	<img src="https://sentralservers.files.wordpress.com/2016/08/when-the-design-failings-we_ve-been-warning-of-since-forever-finally-bite-hard.gif" alt="Down time comes for all of us" hint='Down time comes for all of us'>
-</p>
+</p> -->
 
 
 
